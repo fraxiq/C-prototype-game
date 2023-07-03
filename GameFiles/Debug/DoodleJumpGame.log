@@ -1,0 +1,30 @@
+﻿  DoodleJumpGame.cpp
+G:\Game Task\DoodleJumpGame\DoodleJumpGame\Player.h(33,34): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+G:\Game Task\DoodleJumpGame\DoodleJumpGame\Player.h(43,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\Game Task\DoodleJumpGame\DoodleJumpGame\Bullet.h(32,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+G:\Game Task\DoodleJumpGame\DoodleJumpGame\Enemy.h(30,34): warning C4018: '<': signed/unsigned mismatch
+G:\Game Task\DoodleJumpGame\DoodleJumpGame\Enemy.h(42,30): warning C4018: '<': signed/unsigned mismatch
+G:\Game Task\DoodleJumpGame\DoodleJumpGame\Enemy.h(62,30): warning C4018: '<': signed/unsigned mismatch
+G:\Game Task\DoodleJumpGame\DoodleJumpGame\Platforms.h(38,24): warning C4018: '<': signed/unsigned mismatch
+G:\Game Task\DoodleJumpGame\DoodleJumpGame\Platforms.h(51,24): warning C4018: '<': signed/unsigned mismatch
+G:\Game Task\DoodleJumpGame\DoodleJumpGame\Platforms.h(66,24): warning C4018: '<': signed/unsigned mismatch
+  Enemy.cpp
+G:\Game Task\DoodleJumpGame\DoodleJumpGame\Player.h(33,34): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+G:\Game Task\DoodleJumpGame\DoodleJumpGame\Player.h(43,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\Game Task\DoodleJumpGame\DoodleJumpGame\Enemy.h(30,34): warning C4018: '<': signed/unsigned mismatch
+G:\Game Task\DoodleJumpGame\DoodleJumpGame\Enemy.h(42,30): warning C4018: '<': signed/unsigned mismatch
+G:\Game Task\DoodleJumpGame\DoodleJumpGame\Enemy.h(62,30): warning C4018: '<': signed/unsigned mismatch
+  Platforms.cpp
+G:\Game Task\DoodleJumpGame\DoodleJumpGame\Player.h(33,34): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+G:\Game Task\DoodleJumpGame\DoodleJumpGame\Player.h(43,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\Game Task\DoodleJumpGame\DoodleJumpGame\Enemy.h(30,34): warning C4018: '<': signed/unsigned mismatch
+G:\Game Task\DoodleJumpGame\DoodleJumpGame\Enemy.h(42,30): warning C4018: '<': signed/unsigned mismatch
+G:\Game Task\DoodleJumpGame\DoodleJumpGame\Enemy.h(62,30): warning C4018: '<': signed/unsigned mismatch
+G:\Game Task\DoodleJumpGame\DoodleJumpGame\Platforms.h(38,24): warning C4018: '<': signed/unsigned mismatch
+G:\Game Task\DoodleJumpGame\DoodleJumpGame\Platforms.h(51,24): warning C4018: '<': signed/unsigned mismatch
+G:\Game Task\DoodleJumpGame\DoodleJumpGame\Platforms.h(66,24): warning C4018: '<': signed/unsigned mismatch
+  Player.cpp
+G:\Game Task\DoodleJumpGame\DoodleJumpGame\Player.h(33,34): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+G:\Game Task\DoodleJumpGame\DoodleJumpGame\Player.h(43,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  DoodleJumpGame.vcxproj -> G:\Game Task\DoodleJumpGame\Debug\DoodleJumpGame.exe
